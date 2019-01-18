@@ -1,6 +1,6 @@
 {
   "name": "myrecognition",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "recognition img",
   "main": "cli.js",
   "scripts": {
@@ -13,7 +13,10 @@
   "keywords": [
     "recognition"
   ],
-  "github": "https://github.com/xueyang996/gitrecongtion",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xueyang996/gitrecongtion"
+    },
   "author": "",
   "license": "ISC",
   "dependencies": {
