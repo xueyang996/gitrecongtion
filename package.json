@@ -1,0 +1,26 @@
+{
+  "name": "myrecognition",
+  "version": "1.0.0",
+  "description": "recognition img",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cli.js"
+  },
+  "bin": {
+    "reg": "./cli.js"
+  },
+  "keywords": [
+    "recognition"
+  ],
+  "github": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "images": "^3.0.2",
+    "socks5-http-client": "^1.0.4",
+    "tesseract.js": "^1.0.14",
+    "yargs": "^12.0.5"
+  }
+}
